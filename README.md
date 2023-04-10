@@ -1,19 +1,15 @@
 # Hello My Name Is Akamiya Chizui 
 
 Hello >///< Welcome To My Profile
-- My Social Media
-  - Discord : Chizui.#8097
-  - Youtube : https://www.youtube.com/c/SashaChan1
-  - Facebook : https://www.facebook.com/SashaChan012/
- 
-<p align="left"> <a href="https://twitter.com/desca_rizki" target="blank"><img src="https://img.shields.io/twitter/follow/desca_rizki?logo=twitter&style=for-the-badge" alt="desca_rizki" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/desca_rizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desca_rizki" height="30" width="40" /></a>
-<a href="https://fb.com/sashachan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sashachan01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akamiya chizui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChzGaDVgFSxkYbJGfOgzaVQ" height="30" width="40" /></a>
+<a href="https://fb.com/SashaChan012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SashaChan012" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/SashaChan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akamiya Chizui" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/desca_rizki" target="blank"><img src="https://img.shields.io/twitter/follow/desca_rizki?logo=twitter&style=for-the-badge" alt="desca_rizki" /></a> </p>
 
 <img src="https://discord.c99.nl/widget/theme-3/754151115259641952.png"/>
 
