@@ -1,5 +1,7 @@
 # Hello My Name Is Akamiya Chizui 
 
+<img src="https://discord.c99.nl/widget/theme-3/754151115259641952.png](https://cdn.discordapp.com/attachments/915673757102784526/1098892504197238814/20230414_175726.jpg"/>
+
 Hello >///< Welcome To My Profile
 
 <h3 align="left">Connect me:</h3>
