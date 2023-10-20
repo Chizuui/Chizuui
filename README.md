@@ -6,7 +6,7 @@ Hello >///< Welcome To My Profile
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
-<a href="https://twitter.com/desca_rizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desca_rizki" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/SashaChan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akamiya Chizui" height="30" width="40" /></a>
 </p>
 
