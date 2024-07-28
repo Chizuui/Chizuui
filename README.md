@@ -11,7 +11,7 @@ Hello >///< Welcome To My Profile
 <a href="https://www.youtube.com/c/SashaChan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akamiya Chizui" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/desca_rizki" target="blank"><img src="https://img.shields.io/twitter/follow/desca_rizki?logo=twitter&style=for-the-badge" alt="desca_rizki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chiz_ui" target="blank"><img src="https://img.shields.io/twitter/follow/chiz_ui?logo=twitter&style=for-the-badge" alt="chiz_ui" /></a> </p>
 
 <img src="https://discord.c99.nl/widget/theme-3/754151115259641952.png"/>
 
