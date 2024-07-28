@@ -1,6 +1,6 @@
 # Hello My Name Is Akamiya Chizui 
 
-<img src="https://cdn.discordapp.com/attachments/915673757102784526/1098893904734081054/download.gif"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2037357792052496408/1B451160B19C8415BCE5C344CA6E3A3B2376C85B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 Hello >///< Welcome To My Profile
 
