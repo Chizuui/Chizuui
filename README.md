@@ -1,6 +1,6 @@
 <h1 align="center">Akamiya Chizui 🌙</h1>
 <p align="center">
-  <i>Creative Developer • Designer • Tech Enthusiast</i>
+  <i>Newbie Developer • Graphic Designer • Tech Enthusiast</i>
 </p>
 
 <p align="center">
