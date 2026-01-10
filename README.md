@@ -13,7 +13,6 @@
 - 💻 Developer with a passion for **clean code & elegant design**
 - 🎨 Interested in **UI/UX, 3D, and creative visuals**
 - 🌱 Always learning, building, and refining
-- ✨ Inspired by **anime aesthetics & minimalism**
 
 ---
 
