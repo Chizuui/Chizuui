@@ -20,7 +20,6 @@
 > A small selection of things I’ve built or experimented with
 
 #### 🌸 Project A — Creative Web UI
-- Minimal anime-inspired interface
 - Built with **HTML, CSS, JavaScript**
 - Focused on clean layout & smooth visuals
 
