@@ -61,11 +61,15 @@
   <a href="https://twitter.com/chiz_ui" target="_blank">
     <img src="https://img.shields.io/twitter/follow/chiz_ui?style=for-the-badge&logo=twitter"/>
   </a>
+  <a href="https://instagram.com/chizz.ui" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@chizz.ui-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <p align="left">
   <img src="https://discord.c99.nl/widget/theme-3/754151115259641952.png"/>
 </p>
+
 
 <p align="center">
   <sub>静かに、でも確実に。</sub>
