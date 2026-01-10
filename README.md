@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2037357792052496368/1B451160B19C8415BCE5C344CA6E3A3B2376C85B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="520"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2037357792052496408/1B451160B19C8415BCE5C344CA6E3A3B2376C85B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="520"/>
 </p>
 
 ---
