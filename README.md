@@ -16,26 +16,6 @@
 
 ---
 
-### ✦ Featured Projects
-> A small selection of things I’ve built or experimented with
-
-#### 🌸 Project A — Creative Web UI
-- Built with **HTML, CSS, JavaScript**
-- Focused on clean layout & smooth visuals
-
-#### 🌙 Project B — Discord / Automation Tool
-- Automation & utility-focused project
-- Uses **JavaScript / Python**
-- Designed for simplicity and efficiency
-
-#### ✦ Project C — Design
-- UI mockups & And Graphic Design
-- Tools: **Photoshop, Figma, Illustrator**
-
-> *(More projects coming soon…)*
-
----
-
 ### ✦ Tools & Languages
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36"/>
