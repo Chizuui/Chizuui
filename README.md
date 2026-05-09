@@ -18,13 +18,9 @@
 
 ## About Me
 
-Hi, I'm **Akamiya Chizui**, a Computer Engineering student at **Politeknik Negeri Jember** who enjoys building practical tools, polished interfaces, and system-level experiments.
+Hi, I'm **Akamiya Chizui**, i Like Making Something.
 
-My work sits between **web development**, **desktop utilities**, **Android kernel/ROM tooling**, **creative design**, and small hardware experiments. I like projects that are useful, visually clean, and technically honest.
-
-- Currently exploring full-stack web apps, Electron tools, Android build workflows, and creative UI/UX.
-- Comfortable moving between frontend, scripting, system customization, and design assets.
-- Interested in clean interfaces, automation, Linux/Android internals, and tools that solve real personal workflows.
+I'm a person who likes making something and exploring something new.
 
 ---
 
@@ -49,16 +45,16 @@ My work sits between **web development**, **desktop utilities**, **Android kerne
 
 ## Featured Projects
 
-| Project | What I Built | Stack / Focus |
-| --- | --- | --- |
-| [R2 Chizui File Explorer](https://github.com/Chizuui/R2-Chizui-File-Exlorer) | File manager project with a public deployment at [files.chizui.dev](https://files.chizui.dev/). | JavaScript, web tooling |
-| [LABOKit Electron](https://github.com/Chizuui/labokit-electron) | Windows desktop utility for offline image background removal and image upscaling. | Electron, desktop app, image tooling |
-| [kernel_xiaomi_gale](https://github.com/Chizuui/kernel_xiaomi_gale) | Custom Android kernel tree for Redmi 13C / POCO C65 with additional modifications. | Android kernel, Linux, device tooling |
-| [chizuui.github.io](https://github.com/Chizuui/chizuui.github.io) | Personal portfolio website project. | Web development, portfolio |
-| [laravel-project](https://github.com/Chizuui/laravel-project) | Campus Laravel project for learning backend and web application structure. | Laravel, PHP |
-| [ArknightsAsset](https://github.com/Chizuui/ArknightsAsset) | CN-version Arknights asset archive/research project. | Game assets, data organization |
-| [PixelDrain Downloader](https://github.com/Chizuui/PixelDrain-Downloader) | Downloader utility focused on practical file workflow automation. | Utility tooling |
-| [IRRecv Arduino Sensor](https://github.com/Chizuui/IRRecv-Arduino-Sensor) | Arduino IR receiver sensor project from school coursework. | Arduino, C++ |
+| Project                                                                      | What I Built                                                                                    | Stack / Focus                         |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [R2 Chizui File Explorer](https://github.com/Chizuui/R2-Chizui-File-Exlorer) | File manager project with a public deployment at [files.chizui.dev](https://files.chizui.dev/). | JavaScript, web tooling               |
+| [LABOKit Electron](https://github.com/Chizuui/labokit-electron)              | Windows desktop utility for offline image background removal and image upscaling.               | Electron, desktop app, image tooling  |
+| [kernel_xiaomi_gale](https://github.com/Chizuui/kernel_xiaomi_gale)          | Custom Android kernel tree for Redmi 13C / POCO C65 with additional modifications.              | Android kernel, Linux, device tooling |
+| [chizuui.github.io](https://github.com/Chizuui/chizuui.github.io)            | Personal portfolio website project.                                                             | Web development, portfolio            |
+| [laravel-project](https://github.com/Chizuui/laravel-project)                | Campus Laravel project for learning backend and web application structure.                      | Laravel, PHP                          |
+| [ArknightsAsset](https://github.com/Chizuui/ArknightsAsset)                  | CN-version Arknights asset archive/research project.                                            | Game assets, data organization        |
+| [PixelDrain Downloader](https://github.com/Chizuui/PixelDrain-Downloader)    | Downloader utility focused on practical file workflow automation.                               | Utility tooling                       |
+| [IRRecv Arduino Sensor](https://github.com/Chizuui/IRRecv-Arduino-Sensor)    | Arduino IR receiver sensor project from school coursework.                                      | Arduino, C++                          |
 
 ---
 
@@ -76,12 +72,21 @@ You can browse the full list here: **[github.com/Chizuui?tab=repositories](https
 
 ---
 
-## GitHub Snapshot
+## GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chizuui&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizuui&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+<p align="left">
+  <a href="https://github.com/Chizuui?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-45-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+  </a>
+  <a href="https://github.com/Chizuui/R2-Chizui-File-Exlorer">
+    <img src="https://img.shields.io/badge/Featured-R2%20File%20Explorer-2563EB?style=for-the-badge&logo=javascript&logoColor=white" alt="Featured project"/>
+  </a>
+  <a href="https://github.com/Chizuui/labokit-electron">
+    <img src="https://img.shields.io/badge/Desktop-LABOKit%20Electron-0F766E?style=for-the-badge&logo=electron&logoColor=white" alt="LABOKit Electron"/>
+  </a>
 </p>
+
+Most of my public work is split across web apps, desktop tools, Android kernel/ROM experiments, utility scripts, Linux customization, and creative asset research.
 
 ---
 
@@ -97,8 +102,4 @@ You can browse the full list here: **[github.com/Chizuui?tab=repositories](https
   <a href="https://github.com/Chizuui" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Chizuui-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Quietly building, carefully improving.</sub>
 </p>
