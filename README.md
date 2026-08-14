@@ -1,7 +1,7 @@
 <h1 align="center">Akamiya Chizui</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student • Developer • Creative Technologist</strong>
+  <strong>Computer Engineering Student · Developer · Creative Technologist</strong>
 </p>
 
 <p align="center">
@@ -16,11 +16,21 @@
 
 ---
 
-## About Me
+## About
 
-Hi, I'm **Akamiya Chizui**, i Like Making Something.
+I'm a Computer Engineering student, and most of what I publish here is practical: tools I built because I needed them, coursework that grew past the assignment, and experiments that started as curiosity and turned into working projects.
 
-I'm a person who likes making something and exploring something new.
+My work spans web apps, Electron desktop utilities, and Android kernel trees. I pick up languages as the problem demands — TypeScript and Python day-to-day, C++ and C# where performance matters, and PHP/Laravel for backend work.
+
+Outside of code, I'm usually somewhere in Linux customization, 3D modeling in Blender, or UI design in Figma. The tinkering doesn't stop at the terminal.
+
+---
+
+## Currently Working On
+
+- **[OpenNOW-Modified](https://github.com/Chizuui/OpenNOW-Modified)** — a custom GeForce Now client, being built out in TypeScript.
+- **[WaEnhancer](https://github.com/Chizuui/WaEnhancer)** — WhatsApp tools for Android, written in Kotlin.
+- **[kaeru-gale](https://github.com/Chizuui/kaeru-gale)** — custom MediaTek bootloader payload for the Redmi 13C / POCO C65 (gale, MT6768), with lock-state spoofing and cert bypass.
 
 ---
 
@@ -47,12 +57,12 @@ I'm a person who likes making something and exploring something new.
 
 | Project                                                                      | What I Built                                                                                    | Stack / Focus                         |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [R2 Chizui File Explorer](https://github.com/Chizuui/R2-Chizui-File-Exlorer) | File manager project with a public deployment at [files.chizui.dev](https://files.chizui.dev/). | JavaScript, web tooling               |
-| [LABOKit Electron](https://github.com/Chizuui/labokit-electron)              | Windows desktop utility for offline image background removal and image upscaling.               | Electron, desktop app, image tooling  |
+| [R2 Chizui File Explorer](https://github.com/Chizuui/R2-Chizui-File-Exlorer) | File manager, publicly deployed at [files.chizui.dev](https://files.chizui.dev/).               | JavaScript, web tooling               |
+| [LABOKit Electron](https://github.com/Chizuui/labokit-electron)              | Windows desktop utility for offline image background removal and upscaling.                     | Electron, desktop app, image tooling  |
 | [kernel_xiaomi_gale](https://github.com/Chizuui/kernel_xiaomi_gale)          | Custom Android kernel tree for Redmi 13C / POCO C65 with additional modifications.              | Android kernel, Linux, device tooling |
-| [chizuui.github.io](https://github.com/Chizuui/chizuui.github.io)            | Personal portfolio website project.                                                             | Web development, portfolio            |
+| [chizuui.github.io](https://github.com/Chizuui/chizuui.github.io)            | Personal portfolio website.                                                                     | Web development, portfolio            |
 | [laravel-project](https://github.com/Chizuui/laravel-project)                | Campus Laravel project for learning backend and web application structure.                      | Laravel, PHP                          |
-| [ArknightsAsset](https://github.com/Chizuui/ArknightsAsset)                  | CN-version Arknights asset archive/research project.                                            | Game assets, data organization        |
+| [ArknightsAsset](https://github.com/Chizuui/ArknightsAsset)                  | CN-version Arknights asset archive and research project.                                        | Game assets, data organization        |
 | [PixelDrain Downloader](https://github.com/Chizuui/PixelDrain-Downloader)    | Downloader utility focused on practical file workflow automation.                               | Utility tooling                       |
 | [IRRecv Arduino Sensor](https://github.com/Chizuui/IRRecv-Arduino-Sensor)    | Arduino IR receiver sensor project from school coursework.                                      | Arduino, C++                          |
 
@@ -60,13 +70,13 @@ I'm a person who likes making something and exploring something new.
 
 ## Other Work & Experiments
 
-Beyond the highlighted repositories, I have also worked on:
+Beyond the highlighted repositories:
 
-- **Android ROM automation**: `roms-build`, custom ROM builder experiments, vendor/device tree exploration, and build workflow research.
-- **Linux desktop customization**: `dotfiles`, Wayland/Waybar configuration, shell setup, and UI theming experiments.
-- **Downloader and file utilities**: `universal-downloader`, file workflow tools, and small automation helpers.
-- **Game and asset research tooling**: Persona 5 Royal tooling, AssetStudio experiments, Il2Cpp/Android modding research forks, and related reverse-engineering study.
-- **Creative and portfolio work**: UI visuals, graphic design, 3D interest, and personal branding through web/profile projects.
+- **Android ROM automation** — `roms-build`, custom ROM builder experiments, vendor/device tree exploration, and build workflow research.
+- **Linux desktop customization** — `dotfiles`, Wayland/Waybar configuration, shell setup, and UI theming.
+- **Downloader and file utilities** — `universal-downloader`, file workflow tools, and small automation helpers.
+- **Game and asset research** — Persona 5 Royal tooling, AssetStudio experiments, Il2Cpp/Android modding research forks, and related reverse-engineering study.
+- **Creative and portfolio work** — UI visuals, graphic design, 3D interest, and personal branding through web and profile projects.
 
 You can browse the full list here: **[github.com/Chizuui?tab=repositories](https://github.com/Chizuui?tab=repositories)**.
 
@@ -76,7 +86,13 @@ You can browse the full list here: **[github.com/Chizuui?tab=repositories](https
 
 <p align="left">
   <a href="https://github.com/Chizuui?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-45-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChizuui&query=public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repositories&color=111827" alt="Public repositories"/>
+  </a>
+  <a href="https://github.com/Chizuui?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chizuui?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=111827" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Chizuui?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FChizuui&query=stars&style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=111827" alt="Total stars"/>
   </a>
   <a href="https://github.com/Chizuui/R2-Chizui-File-Exlorer">
     <img src="https://img.shields.io/badge/Featured-R2%20File%20Explorer-2563EB?style=for-the-badge&logo=javascript&logoColor=white" alt="Featured project"/>
@@ -85,8 +101,6 @@ You can browse the full list here: **[github.com/Chizuui?tab=repositories](https
     <img src="https://img.shields.io/badge/Desktop-LABOKit%20Electron-0F766E?style=for-the-badge&logo=electron&logoColor=white" alt="LABOKit Electron"/>
   </a>
 </p>
-
-Most of my public work is split across web apps, desktop tools, Android kernel/ROM experiments, utility scripts, Linux customization, and creative asset research.
 
 ---
 
