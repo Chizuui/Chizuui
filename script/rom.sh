@@ -15,7 +15,7 @@ export BUILD_USERNAME=chizui
 export BUILD_HOSTNAME=akamiya_chizui
 
 # start build
-breakfast earth userdebug 
+breakfast gale userdebug 
 m pixelos
 
 # Upload
