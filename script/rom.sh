@@ -1,104 +1,57 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-set -e
-set -o pipefail
+# Clean up
 
-echo "====================================="
-echo " PixelOS 17 Build - Redmi 13C Gale"
-echo "====================================="
+rm -rf device/xiaomi/gale
+rm -rf hardware/xiaomi
+rm -rf hardware/mediatek
+rm -rf device/mediatek/sepolicy_vndr
+rm -rf vendor/mediatek/ims
+rm -rf vendor/xiaomi/gale
+rm -rf kernel/xiaomi/gale
+rm -rf vendor/lineage-priv/keys
 
-# =========================
-# Init & Sync ROM
-# =========================
+# Init PixelOS source
 
-repo init \
-    -u https://github.com/aobuta-prjkt/pixelos_manifest.git \
-    -b seventeen \
-    --git-lfs \
-    --depth=1
+repo init -u https://github.com/aobuta-prjkt/pixelos_manifest.git -b seventeen --git-lfs --depth=1
 
 /opt/crave/resync.sh
 
-# =========================
-# Device Tree
-# =========================
+# Device source
 
-echo "Cloning Gale device tree..."
-
-rm -rf device/xiaomi/gale
-
-# Bersihkan folder rusak dari build CRLF sebelumnya, kalau masih ada
-rm -rf $'device/xiaomi/gale\r'
-
-git clone \
-    --depth=1 \
-    https://github.com/Chizuui/device_xiaomi_gale.git \
+git clone https://github.com/Chizuui/device_xiaomi_gale.git \
     -b dev/POS-17 \
     device/xiaomi/gale
 
-# =========================
-# Build Setup
-# =========================
+# Build environment
 
-echo "Setting up build environment..."
+. build/envsetup.sh
 
-source build/envsetup.sh
-
-export SOONG_NINJA=ninja
 export BUILD_USERNAME=chizui
 export BUILD_HOSTNAME=akamiya_chizui
+export SOONG_NINJA=ninja
 
-# =========================
-# Select Device
-# =========================
-
-echo "Selecting gale..."
+# Build
 
 breakfast gale userdebug
 
-# =========================
-# Start Build
-# =========================
-
-echo "====================================="
-echo " Starting PixelOS build"
-echo "====================================="
+make installclean
 
 m pixelos
 
-# =========================
 # Upload
-# =========================
 
-OUT_DIR="out/target/product/gale"
+echo "Upload to GoFile will be started..."
 
-echo "Searching for PixelOS zip..."
-
-ZIP="$(
-    find "$OUT_DIR" \
-        -maxdepth 1 \
-        -type f \
-        -name 'PixelOS_*.zip' \
-        | sort \
-        | tail -n 1
-)"
-
-if [ -n "$ZIP" ] && [ -f "$ZIP" ]; then
-    echo "====================================="
-    echo " ROM found:"
-    echo " $ZIP"
-    echo "====================================="
-
-    echo "Uploading to GoFile..."
-
-    wget -q \
-        https://raw.githubusercontent.com/lordgaruda/GoFile-Upload/refs/heads/master/upload.sh
+if compgen -G "out/target/product/gale/PixelOS_*.zip" > /dev/null; then
+    wget https://raw.githubusercontent.com/lordgaruda/GoFile-Upload/refs/heads/master/upload.sh
 
     chmod +x upload.sh
-    ./upload.sh "$ZIP"
 
-    echo "Upload done!"
+    ./upload.sh out/target/product/gale/PixelOS_*.zip
+
+    echo "Upload Done!"
 else
-    echo "No PixelOS zip found in $OUT_DIR"
+    echo "No zip found!"
     exit 1
 fi
