@@ -12,7 +12,7 @@ echo "====================================="
 # =========================
 
 repo init \
-    -u https://github.com/sweet-bullet/pixelos_manifest.git \
+    -u https://github.com/aobuta-prjkt/pixelos_manifest.git \
     -b seventeen \
     --git-lfs \
     --depth=1
