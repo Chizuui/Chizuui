@@ -12,7 +12,7 @@ rm -rf kernel/xiaomi/gale
 rm -rf vendor/lineage-priv/keys
 
 # Init PixelOS source
-repo init -u https://github.com/aobuta-prjkt/pixelos_manifest.git \
+repo init -u https://github.com/Chizui-Dump/pixelos_manifest.git \
     -b seventeen \
     --git-lfs \
     --depth=1
