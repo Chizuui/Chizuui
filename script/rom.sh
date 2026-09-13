@@ -23,6 +23,9 @@ repo init -u https://github.com/aobuta-prjkt/pixelos_manifest.git \
 git clone https://github.com/Chizuui/device_xiaomi_gale.git \
     -b dev/POS-17 \
     device/xiaomi/gale
+    
+# Build environment
+. build/envsetup.sh
 
 # Patch BPF
 git -C packages/modules/Connectivity \
@@ -47,9 +50,6 @@ git -C packages/modules/Nfc \
     "$PWD/device/xiaomi/gale/patches/android17-nfc/0002-libnfc-nci-log-tms-post-init-state.patch" \
     "$PWD/device/xiaomi/gale/patches/android17-nfc/0003-libnfc-nci-log-tms-core-init-status.patch" \
     "$PWD/device/xiaomi/gale/patches/android17-nfc/0004-libnfc-nci-tolerate-thn31-core-init-status.patch"
-
-# Build environment
-. build/envsetup.sh
 
 export BUILD_USERNAME=chizui
 export BUILD_HOSTNAME=akamiya_chizui
