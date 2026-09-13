@@ -2,12 +2,12 @@
 set -e
 
 # Clean up
-rm -rf device/xiaomi/gale
+
 rm -rf hardware/xiaomi
 rm -rf hardware/mediatek
 rm -rf device/mediatek/sepolicy_vndr
 rm -rf vendor/mediatek/ims
-rm -rf vendor/xiaomi/gale
+
 rm -rf kernel/xiaomi/gale
 rm -rf vendor/lineage-priv/keys
 
